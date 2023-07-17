@@ -1,2 +1,4 @@
 # 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+A 8values politikai kvíz az egyének politikai értékeit méri, beleértve az egyenlőséget, a nemzetet, a szabadságot, a hagyományt, a piacokat, a világot, a tekintélyt (autoritást) és a haladást (progresszívitást).
+
+Magyar nyelvű fordítás.
